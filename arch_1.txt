@@ -1,3 +1,17 @@
-Achivo_1.txt
-
-Perdida de datos
+~Achivo_1.txt
+ ~Línea 2
+ ~Línea 3
+ ~Nuevo código en arch1
+ ~Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
+ Nuevo código en arch1
